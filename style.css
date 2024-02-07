@@ -1,0 +1,467 @@
+.icon {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 30px;
+	display: flex;
+	justify-content: space-between;
+	margin: 0 0 10px 0;
+}
+.sp {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  color: grey;
+}
+.img {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 600px;
+	background: url(https://www.cnet.com/a/img/resize/4202ef00e0461101ee6b4fc88ac2eb2fc0df6dfe/hub/2022/04/25/bcfa52df-fe34-4d2b-80d7-443ba660c100/img-9531.jpg?auto=webp&fit=crop&height=675&width=1200);
+	background-size: cover;
+	background-position: center;
+	display: flex;
+}
+.a_main {
+/*	border: 1px solid;*/
+	width: 40%;
+	height: 600px;
+}
+.c_main {
+/*	border: 1px solid;*/
+	width: 60%;
+	height: 600px;
+}
+.b_main {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 200px;
+	margin: 360px 0 0 0;
+	padding: 0 0 0 60px;
+	box-sizing: border-box;
+}
+.h1 {
+	color: wheat;
+	font-size: 70px;
+}
+.obshi {
+/*	border: 1px solid;*/
+	width: 60%;
+	height: 400px;
+	margin: 150px auto;
+	display: flex;
+	gap: 20px;
+}
+.d_main {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 180px;
+	border-radius: 50px;
+	margin: 20px 0 0 0;
+	background: white;
+}
+.obshi1 {
+/*	border: 1px solid;*/
+	width: 50%;
+	height: 400px;
+}
+.a1 {
+	font-size: 80px;
+	margin: 40px 0 0 95px;
+}
+.a2 {
+	font-size: 80px;
+	margin: 40px 0 0 85px;
+}
+.a3 {
+	font-size: 80px;
+	margin: 40px 0 0 81px;
+}
+.sp1 {
+	font-size: 22px;
+}
+.span {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 40px;
+	margin: 10px 0 0 0;
+	padding: 0 0 0 65px;
+	box-sizing: border-box;
+}
+.span1 {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 40px;
+	margin: 10px 0 0 0;
+	padding: 0 0 0 75px;
+	box-sizing: border-box;
+}
+.span2 {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 40px;
+	margin: 10px 0 0 0;
+	padding: 0 0 0 78px;
+	box-sizing: border-box;
+}
+.span3 {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 40px;
+	margin: 10px 0 0 0;
+	padding: 0 0 0 87px;
+	box-sizing: border-box;
+}
+.obshi2 {
+	border: 1px solid white;
+	width: 100%;
+	height: 520px;
+	background: rgba(0, 0, 0, 0.2);
+}
+.text {
+/*	border: 1px solid;*/
+	width: 90%;
+	height: 70px;
+	margin: 60px auto 0 auto;
+	display: flex;
+	justify-content: center;
+}
+.b1 {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 50px;
+}
+.text1 {
+/*	border: 1px solid;*/
+	width: 55%;
+	height: 40px;
+	margin: auto;
+}
+.span5 {
+	font-size: 15px;
+}
+.obshi3 {
+/*	border: 1px solid;*/
+	width: 93%;
+	height: 100px;
+	margin: 20px auto 40px auto;
+	gap: 20px;
+	display: flex;
+}
+.main {
+/*	border: 1px solid;*/
+	width: 50%;
+	height: 120px;
+	border-radius: 20px;
+	display: flex;
+	background: white;
+}
+.a4 {
+	font-size: 60px;
+	color: blue;
+	padding: 10px 10px 0 10px;
+}
+.main2 {
+/*	border: 1px solid;*/
+	height: 120px;
+	width: 10%;
+}
+.main3 {
+/*	border: 1px solid;*/
+	height: 120px;
+	width: 90%;
+	padding: 10px 0 10px 15px;
+	box-sizing: border-box;
+}
+.obshi4 {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 600px;
+	position: relative;
+}
+.main4 {
+/*	border: 1px solid;*/
+	width: 65%;
+	height: 450px;
+	border-radius: 30px;
+	position: absolute;
+	background: blue;
+	top: 40px;
+	left: 40px;
+}
+.main5 {
+/*	border: 1px solid;*/
+	width: 40%;
+	height: 450px;
+	border-radius: 30px;
+	position: absolute;
+	top: 100px;
+	left: 800px;
+	background: url(https://t3.ftcdn.net/jpg/03/35/34/80/360_F_335348056_yY8QyHP966KePjyutnns1Puwt2bnngZc.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.b2 {
+/*	border: 1px solid;*/
+	width: 55%;
+	height: 450px;
+	padding: 30px 0 0 50px;
+	box-sizing: border-box;
+}
+.size {
+	font-size: 37px;
+	color: white;
+}
+.size1 {
+	color: white;
+}
+.butt1 {
+	border: 1px solid white;
+	background: blue;
+	border-radius: 70px;
+	width: 150px;
+	height: 40px;
+	color: white;
+}
+.obshi5 {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 500px;
+	display: flex;
+}
+.main6 {
+/*	border: 1px solid;*/
+	width: 35%;
+	height: 500px;
+	position: relative;
+}
+.main7 {
+/*	border: 1px solid;*/
+	width: 65%;
+	height: 500px;
+}
+.img1 {
+/*	border: 1px solid;*/
+	width: 33%;
+	height: 370px;
+	border-radius: 30px;
+	background: url(https://sum.com.ua/image/catalog/products/5/SU0465635-0.jpg);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	top: 30px;
+	left: 180px;
+	z-index: 2;
+}
+.klor {
+/*	border: 1px solid;*/
+	width: 300px;
+	height: 300px;
+	border-radius: 50%;
+	background: blue;
+	position: relative;
+	top: 70px;
+	left: 120px;
+}
+.b3  {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.b4 {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size:50px;
+}
+.o1 {
+/*	border: 1px solid;*/
+	width: 45%;
+}
+.main8 {
+/*	border: 1px solid;*/
+	width: 80%;
+	height: 500px;
+	padding: 20px 0 0 30px;
+	box-sizing: border-box;
+}
+.obshi6 {
+	border: 1px solid white;
+	width: 100%;
+	height: 150px;
+	background: rgba(0, 0, 0, 0.2);
+}
+.main9 {
+/*	border: 1px solid;*/
+	width: 95%;
+	height: 100px;
+	margin:  25px auto;
+	background: white;
+	display: flex;
+}
+.main10 {
+/*	border: 1px solid;*/
+	width: 7%;
+	height: 100px;
+	box-sizing: border-box;
+}
+.a5 {
+	color: blue;
+	font-size: 60px;
+	padding: 20px 0 0 20px;
+}
+.main11 {
+/*	border: 1px solid;*/
+	height: 100px;
+	width: 53%;
+	padding: 5px 0 0 20px;
+	box-sizing: border-box;
+}
+.b5 {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-size: 35px;
+}
+
+.main12 {
+/*	border: 1px solid;*/
+	height: 100%;
+	width: 40%;
+	box-sizing: border-box;
+}
+.butt2 {
+	border: 1px solid white;
+	background: blue;
+	border-radius: 70px;
+	width: 150px;
+	height: 40px;
+	color: white;
+	margin: 30px 0 0 415px;
+}
+.obshi7 {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 770px;
+	position: relative;
+}
+.e_main {
+/*	border: 1px solid;*/
+	width: 30%;
+	height: 430px;
+	position: absolute;
+	background: url(https://vanitynoapologies.com/wp-content/uploads/2016/05/25-Most-Beautiful-Russian-Women18-e1467445324867.jpg);
+	background-size: cover;
+	background-position: center;
+	top: 150px;
+	left: 480px;
+	border-radius: 30px;
+	z-index: 4;
+}
+.f_main {
+/*	border: 1px solid;*/
+	width: 25%;
+	height: 250px;
+	position: absolute;
+	background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png);
+	background-size: cover;
+	background-position: center;
+	border-radius: 30px;
+	top: 470px;
+	left: 200px;
+}
+.o_main {
+/*	border: 1px solid;*/
+	width: 25%;
+	height: 400px;
+	position: absolute;
+	background: rgb(240, 240, 240);
+	top: 90px;
+	left: 900px;
+	z-index: 3;
+	border-radius: 30px;
+}
+.klor1 {
+/*	border: 1px solid;*/
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: blue;
+	position: relative;
+	top: 30px;
+	left: 1150px;
+	z-index: 1;
+}
+.block {
+/*	border: 1px solid;*/ 	
+	width: 100%;
+	height: 380px;
+	padding: 30px 0 0 50px;
+	box-sizing: border-box;
+}
+.klor2 {
+/*	border: 1px solid;*/
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	background: blue;
+	position: relative;
+	left: 370px;
+	bottom: 150px;
+	z-index: ;
+}
+.obshi8 {
+	border: 1px solid white;
+	width: 100%;
+	height: 540px;
+	background: rgba(0, 0, 0, 0.2);
+}
+.text2 {
+/*	border: 1px solid;*/
+	width: 90%;
+	height: 70px;
+	margin: 60px auto 0 auto;
+	display: flex;
+	justify-content: center;
+}
+.obshi9 {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 300px;
+	margin: 20px 0 0 0;
+	display: flex;
+	justify-content: space-evenly;
+}
+.main13 {
+/*	border: 1px solid;*/
+	width: 27%;
+	height: 300px;
+	border-radius: 30px;
+	background: blue;
+}
+.b6 {
+	font-size: 100px;
+	color: white;
+}
+.block1 {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 80px;
+	padding: 0 0 0 20px;
+	box-sizing: border-box;
+}
+.span6 {
+	color: white;
+}
+.block2 {
+/*	border: 1px solid;*/
+	width: 100%;
+	height: 170px;
+	padding: 0 30px;
+	box-sizing: border-box;
+}
